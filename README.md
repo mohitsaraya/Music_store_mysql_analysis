@@ -78,14 +78,12 @@
         <li>Which city has the best customers? Identify the city with the highest sum of invoice totals.</li>
         <li>Who is the best customer? Find the customer who has spent the most money.</li>
     </ul>
-
     <h4>Moderate</h4>
     <ul>
         <li>Return the email, first name, last name, and genre of all Rock music listeners, ordered by email.</li>
         <li>Identify the artists who have written the most Rock music. Return the artist name and total track count of the top 10 Rock bands.</li>
         <li>Find all track names with a song length longer than the average. Return the name and milliseconds, ordered by song length.</li>
     </ul>
-
     <h4>Advanced</h4>
     <ul>
         <li>Find how much each customer spent on artists. Return customer name, artist name, and total spent.</li>
@@ -98,7 +96,6 @@
     <ul>
         <li><strong>Database</strong>: PostgreSQL or MySQL</li>
         <li><strong>Query Language</strong>: SQL</li>
-        <li><strong>Visualization</strong>: Power BI, Tableau, or Matplotlib (optional for visualization)</li>
         <li><strong>Version Control</strong>: Git and GitHub</li>
     </ul>
 </div>
@@ -116,13 +113,4 @@
 <div class="section">
     <h2>License</h2>
     <p>This project is licensed under the MIT License. Feel free to use and adapt the code for your own purposes.</p>
-</div>
-
-<div class="section">
-    <h2>Contact</h2>
-    <p>For any questions or contributions, feel free to reach out:</p>
-    <ul>
-        <li><strong>Email</strong>: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
-        <li><strong>GitHub</strong>: <a href="https://github.com/yourusername">yourusername</a></li>
-    </ul>
 </div>
