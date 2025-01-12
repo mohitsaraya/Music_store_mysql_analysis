@@ -94,19 +94,6 @@
         <li>Evaluate employee performance by analyzing revenue contribution per support representative.</li>
     </ul>
 </div>
-
-<div class="section">
-    <h2>How to Use</h2>
-    <ol>
-        <li>Clone the repository:
-            <pre><code>git clone https://github.com/yourusername/music-store-analysis.git</code></pre>
-        </li>
-        <li>Import the database schema into your preferred SQL environment.</li>
-        <li>Use the provided SQL queries in the <code>/queries</code> directory to answer the business questions.</li>
-        <li>Analyze the results and generate visualizations for reporting if needed.</li>
-    </ol>
-</div>
-
 <div class="section">
     <h2>Tools and Technologies</h2>
     <ul>
