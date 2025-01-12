@@ -65,33 +65,32 @@
     </ul>
 </div>
 
+
+
 <div class="section">
     <h2>Objectives</h2>
-    <h3>Basic Analysis</h3>
+    <h3>Analysis Questions</h3>
+    <h4>Easy</h4>
     <ul>
-        <li>Identify the total number of customers.</li>
-        <li>Calculate the total revenue generated.</li>
-        <li>Find the most popular genre based on track sales.</li>
-        <li>Identify the most purchased track.</li>
-        <li>List the top 5 customers by total spending.</li>
-    </ul>
-    
-    <h3>Intermediate Analysis</h3>
-    <ul>
-        <li>Calculate the average revenue per invoice.</li>
-        <li>Determine the distribution of sales by media type.</li>
-        <li>Identify the top 5 artists based on track sales.</li>
-        <li>Analyze sales trends by month.</li>
-        <li>Group customers by their assigned support representatives and calculate their total revenue contribution.</li>
+        <li>Who is the senior-most employee based on job title?</li>
+        <li>Which countries have the most invoices?</li>
+        <li>What are the top 3 values of total invoice amounts?</li>
+        <li>Which city has the best customers? Identify the city with the highest sum of invoice totals.</li>
+        <li>Who is the best customer? Find the customer who has spent the most money.</li>
     </ul>
 
-    <h3>Advanced Analysis</h3>
+    <h4>Moderate</h4>
     <ul>
-        <li>Find the percentage contribution of each genre to the total revenue.</li>
-        <li>Analyze the sales performance of playlists.</li>
-        <li>Identify the cumulative revenue generated over time.</li>
-        <li>Rank customers by lifetime value and recommend loyalty program candidates.</li>
-        <li>Evaluate employee performance by analyzing revenue contribution per support representative.</li>
+        <li>Return the email, first name, last name, and genre of all Rock music listeners, ordered by email.</li>
+        <li>Identify the artists who have written the most Rock music. Return the artist name and total track count of the top 10 Rock bands.</li>
+        <li>Find all track names with a song length longer than the average. Return the name and milliseconds, ordered by song length.</li>
+    </ul>
+
+    <h4>Advanced</h4>
+    <ul>
+        <li>Find how much each customer spent on artists. Return customer name, artist name, and total spent.</li>
+        <li>Identify the most popular music genre for each country based on purchases.</li>
+        <li>Determine the customer who spent the most on music for each country. Include all customers in case of ties.</li>
     </ul>
 </div>
 <div class="section">
